@@ -1,0 +1,34 @@
+.conteudo-todo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.convenio-titulo {
+    margin: 30px;
+    text-align: center;
+}
+
+.pesq-convenio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.convenio-box {
+    display: flex; 
+    text-align: center;
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 15px;
+    
+}
+
+.pesquisar {
+    margin: 15px;.
+    padding: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+}
