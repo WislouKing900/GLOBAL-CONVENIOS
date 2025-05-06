@@ -15,6 +15,13 @@
     align-items: center;
 }
 
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 .convenio-box {
     display: flex; 
     text-align: center;
