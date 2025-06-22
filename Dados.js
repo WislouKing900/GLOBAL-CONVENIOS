@@ -2,18 +2,18 @@ let dados = [
     {
         titulo: 'Sulamerica',
         descrição: 'executivo I',
-        tags: ''
+        tags: 'sul, america, sula, s'
     },
 
     {
         titulo: 'Bradesco',
         descrição: 'saude top nacional plus',
-        tags: ''
+        tags: 'B, bra, bradesco'
     },
 
     {
         titulo: 'Omint',
         descrição: 'medicina completo C20',
-        tags: ''
+        tags: 'O, om, Omint'
     },
 ]
